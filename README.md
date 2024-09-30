@@ -8,7 +8,7 @@
 
 <h2 align="left">About me</h2>
 Postdoctoral researcher in biostatistics. PhD in Physics. MSc in Medical Physics. Interested in data analytics and machine learning for high-throughput data and health record data.
-###
+
 
 ###
 
